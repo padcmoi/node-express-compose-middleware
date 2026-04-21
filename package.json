@@ -1,6 +1,6 @@
 {
   "name": "@naskot/node-express-compose-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small Express utility to compose middlewares and a final handler with ctx ({ req, res, next }).",
   "repository": {
     "type": "git",
