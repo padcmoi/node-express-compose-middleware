@@ -1,5 +1,9 @@
 # Changelog
 
+## [Unreleased] - yyyy-mm-dd
+
+- fix(registry): restore npm package visibility
+
 ## [0.1.0] - 2026-04-21
 
 - Initial release of `compose` utility for Express middleware composition.
